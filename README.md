@@ -170,5 +170,6 @@ Run cells in order. The final section ("All Plots & Algorithm, Everything") is t
 
 ## References
 
-- Dong, Y., Li, L., Lin, L., & Tong, Y. (2022). *Ground-state preparation and energy estimation on early fault-tolerant quantum computers via quantum eigenvalue transformation of unitary matrices*. — LCHS kernel construction.
-- IBM Quantum Learning — Quantum diagonalization algorithms course.
+- Quantum algorithm for linear non-unitary dynamics with near-optimal dependence on all parameters (Dong et al.)
+- Lecture Notes on Quantum Algorithms for Scientific Computation(Lin Lin)
+- https://quantum.cloud.ibm.com/docs/en/guides
