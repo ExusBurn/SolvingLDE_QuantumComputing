@@ -6,6 +6,7 @@
 **SR No.** 25828
 
 ---
+**Note:** Extra analysis was done on the .ipynb as sanity checks to ensure the code works. Refer to the Final as well as Proper Plots section of the .ipynb for seeing the algorithm being used which is reflected onto the report.
 
 ## Overview
 
