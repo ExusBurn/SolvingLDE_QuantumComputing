@@ -2,6 +2,8 @@
 
 **Course:** Numerical Solutions of Differential Equations (NSDE) — Final Project  
 **Institution:** Indian Institute of Science (IISc)  
+**Name:** Aadithya Iyer
+**SR No.** 25828
 **Notebook:** `lchs.ipynb`
 
 ---
